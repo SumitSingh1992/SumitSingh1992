@@ -1,11 +1,12 @@
 # Hi, I'm Sumit Kumar 👋
 
-**Senior Software Engineer | Frontend Architecture | React, TypeScript, Angular**
+**Senior Software Engineer | Frontend Architecture | Angular, JavaScript, TypeScript**
 
 I build scalable, high-performance frontend platforms — with 9+ years focused on frontend architecture, micro-frontend design, state management, and large-scale UI systems. I currently own frontend architecture across multiple modules of a healthcare imaging platform at **GE HealthCare**, used by internal and external engineering teams.
 
-- 🔭 Currently building **MedFlow** — a full-stack healthcare imaging management platform (React, TypeScript, Node.js, NestJS, PostgreSQL)
+- 🔭 Currently building **MedFlow** — a full-stack healthcare imaging management platform, and my hands-on project for deepening React and full-stack skills (React, TypeScript, Node.js, NestJS, PostgreSQL)
 - 🏗️ Focused on frontend system design: micro-frontends, module federation, design systems, and component libraries
+- 🌱 Actively expanding into the React ecosystem and full-stack engineering
 - 🧑‍🏫 Mentor engineers on architecture, code quality, and CI/CD standards
 - 📍 Bengaluru, India
 - 🌐 [Portfolio](https://portfolio-sumitkumarsingh.vercel.app/)
@@ -16,7 +17,7 @@ I build scalable, high-performance frontend platforms — with 9+ years focused 
 ### Tech Stack
 
 **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-**Frontend:** React, Angular (2–16), RxJS, NgRx, Redux
+**Frontend:** Angular (2–16), RxJS, NgRx, Redux, React *(growing)*
 **Architecture:** Micro Frontends, Module Federation, Single-SPA, Design Systems, Monorepos
 **Performance:** Lazy Loading, Code Splitting, Bundle Optimization, Webpack
 **Testing:** Jest, Jasmine, Karma, Playwright
@@ -36,7 +37,7 @@ I build scalable, high-performance frontend platforms — with 9+ years focused 
 
 ### Featured Project
 
-**[MedFlow](#)** — Healthcare imaging management platform covering patient registration, study management, and radiology workflows. React/TypeScript frontend with role-based access control, NestJS backend, PostgreSQL data models, and Docker-based deployment. *(link coming soon)*
+**[MedFlow](#)** *(in active development)* — Healthcare imaging management platform covering patient registration, study management, and radiology workflows. Built as a hands-on project to deepen React and full-stack skills: React/TypeScript frontend with role-based access control, NestJS backend, PostgreSQL data models, and Docker-based deployment. *(link coming soon)*
 
 ---
 
