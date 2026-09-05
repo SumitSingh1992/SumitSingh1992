@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Sumit Kumar 👋
 
-<!--
-**SumitSingh1992/SumitSingh1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer | Frontend Architecture | React, TypeScript, Angular**
 
-Here are some ideas to get you started:
+I build scalable, high-performance frontend platforms — with 9+ years focused on frontend architecture, micro-frontend design, state management, and large-scale UI systems. I currently own frontend architecture across multiple modules of a healthcare imaging platform at **GE HealthCare**, used by internal and external engineering teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building **MedFlow** — a full-stack healthcare imaging management platform (React, TypeScript, Node.js, NestJS, PostgreSQL)
+- 🏗️ Focused on frontend system design: micro-frontends, module federation, design systems, and component libraries
+- 🧑‍🏫 Mentor engineers on architecture, code quality, and CI/CD standards
+- 📍 Bengaluru, India
+- 🌐 [Portfolio](https://portfolio-sumitkumarsingh.vercel.app/)
+- 💼 [LinkedIn](https://linkedin.com/in/sumit-kumar-605846129)
+
+---
+
+### Tech Stack
+
+**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+**Frontend:** React, Angular (2–16), RxJS, NgRx, Redux
+**Architecture:** Micro Frontends, Module Federation, Single-SPA, Design Systems, Monorepos
+**Performance:** Lazy Loading, Code Splitting, Bundle Optimization, Webpack
+**Testing:** Jest, Jasmine, Karma, Playwright
+**Backend:** Node.js, NestJS, REST APIs, MongoDB, PostgreSQL
+**DevOps:** Git, GitLab CI/CD, Docker, Kubernetes, SonarQube
+
+---
+
+### Experience
+
+- **GE HealthCare** — Senior Software Engineer, Team Lead (2023–Present)
+- **EY (Ernst & Young)** — Senior Consultant / Consultant (2021–2023)
+- **Maritime Associates** — Software Engineer, UI (2019–2021)
+- **Aristos Erevna Consulting** — Senior Analyst, UI (2017–2019)
+
+---
+
+### Featured Project
+
+**[MedFlow](#)** — Healthcare imaging management platform covering patient registration, study management, and radiology workflows. React/TypeScript frontend with role-based access control, NestJS backend, PostgreSQL data models, and Docker-based deployment. *(link coming soon)*
+
+---
+
+📫 Reach me at sumit.kumar1312@gmail.com | 🌐 [portfolio-sumitkumarsingh.vercel.app](https://portfolio-sumitkumarsingh.vercel.app/)
